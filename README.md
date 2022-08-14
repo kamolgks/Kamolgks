@@ -1,5 +1,5 @@
-<img src="https://siasky.net/dACHKgmUx18W--nmmQoMmiAsPYmwy2nSnTX9H04QA0hVNw">
-
+! [ukraine] (
+> Well, actually my real name is Kamoliddin Tukhtaboev. I'm 15 y.o, live in Tashkent. Prob, it's all what you'd want to know about me.
 
 
 
