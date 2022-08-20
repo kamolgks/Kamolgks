@@ -4,6 +4,9 @@
 
 <div align="center">
 
+![Counter](https://count.getloli.com/get/@kamolgks?theme=rule34)
+
+
 ---
 
 ![Kamoliddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamolgks&hide=issues&show_icons=true&theme=dark)
