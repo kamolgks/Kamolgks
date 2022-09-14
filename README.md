@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Counter](https://count.getloli.com/get/@kamolgks?theme=rule34)
+![Counter](https://count.getloli.com/get/@kamolgks)
 
 
 ---
