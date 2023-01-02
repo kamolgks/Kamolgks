@@ -1,5 +1,5 @@
 ![chochaq](https://i.imgur.com/0ytZKQJ.jpeg)
-> Well, actually my real name is Kamoliddin Tukhtaboev. I'm 15 y.o, live in Tashkent.
+> My name is Kamoliddin Tukhtaboev. I'm 15 y.o, live in Tashkent (Uzbekistan).
 
 [![wakatime](https://wakatime.com/badge/user/cd78fb4f-27ff-40b1-8a3c-eddd5695a9d1.svg)](https://wakatime.com/@cd78fb4f-27ff-40b1-8a3c-eddd5695a9d1)
 
