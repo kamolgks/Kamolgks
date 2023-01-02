@@ -9,7 +9,7 @@
 
 ---
 
-![Kamoliddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamolgks&hide=issues&show_icons=true&theme=dark)
+![Kamol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamolgks&show_icons=true&theme=black)
 
 </div>
 
