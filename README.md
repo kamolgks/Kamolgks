@@ -7,7 +7,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/cd78fb4f-27ff-40b1-8a3c-eddd5695a9d1.svg)](https://wakatime.com/@cd78fb4f-27ff-40b1-8a3c-eddd5695a9d1)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Tg-bots,+Frontend+developer)](https://t.me/shitmodules)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=developer+of+telegram+bots)](https://t.me/shitmodules)
 
 ---
 
