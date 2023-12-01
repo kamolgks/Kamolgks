@@ -1,11 +1,11 @@
 # Profile views
+
 <p align="center">
   <img src="https://count.getloli.com/get/@kamolgks" alt="Profile views">
 </p>
 <!-- ![Counter](https://count.getloli.com/get/@kamolgks) -->
 
-> Well, actually my real name is Kamoliddin Tukhtaboev. I'm 16 y.o, live in Uzbekistan, sity - Tashkent. I make projects to order, contact me on [**telegram**](https://t.me/kamolgks) Btw, perhaps I am a future student of INHA University
-
+> Well, actually my real name is Kamoliddin Tukhtaboev. I'm 16 y.o, live in Uzbekistan, sity - Tashkent. I make projects to order, contact me on [**telegram.**](https://t.me/kamolgks) Btw, perhaps I am a future student of INHA University
 
 > [bio](https://t.me/kamolgks_bio) | [shitmodules](https://t.me/shitmodules)
 
@@ -19,7 +19,7 @@
 
 # Do you want to contact me?
 
-### I'll leave some links here)
+### I'll leave some links here:
 
 [![Telegram](https://img.icons8.com/fluency/40/000000/telegram-app.png)](https://t.me/kamolgks)
 [![Feedback Bot](https://img.icons8.com/?size=40&id=50200&format=png)](https://t.me/fkamolgks_bot)
