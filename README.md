@@ -7,8 +7,7 @@
 
 > Well, actually my real name is Kamoliddin Tukhtaboev. I'm 16 y.o, live in Uzbekistan, sity - Tashkent. I make projects to order, contact me on [**telegram**](https://t.me/kamolgks) Btw, perhaps I am a future student of INHA University
 
-
-> [bio](https://t.me/kamolgks_bio) | [shitmodules](https://t.me/shitmodules)
+<!-- > [bio](https://t.me/kamolgks_bio) | [shitmodules](https://t.me/shitmodules) -->
 
 ---
 
