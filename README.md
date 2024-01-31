@@ -14,7 +14,7 @@
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=kamolgks&show_icons=true&theme=dark)](https://github.com/kamolgks/github-readme-stats)
 
 ### Profile views
-<img src="https://count.getloli.com/get/@kamolgks" alt="profile_views">
+<div align="center"><img src="https://count.getloli.com/get/@kamolgks" alt="profile_views"></div>
 
 > Well, actually my real name is Kamoliddin Tukhtaboev. I'm 16 y.o, live in Uzbekistan, sity - Tashkent. I make projects to order, contact me on [**telegram**](https://t.me/kamolgks) Btw, perhaps I am a future student of INHA University
 
