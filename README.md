@@ -4,7 +4,7 @@
 ### Profile views
 <div align="center"><img src="https://count.getloli.com/get/@kamolgks" alt="profile_views"></div>
 
-> Well, actually my real name is Kamoliddin Tukhtaboev. I'm 16 y.o, live in Uzbekistan, sity - Tashkent. I make projects to order, contact me on [**telegram**](https://t.me/kamolgks) Btw, perhaps I am a future student of INHA University
+> Well, actually my real name is Kamoliddin Tukhtaboev. I'm 16 y.o, live in Uzbekistan, sity - Tashkent. I make projects to order, contact me on [**telegram**](https://t.me/kamolgks)
 
 ### My contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamolgks&theme=dark&mode=weekly)](https://git.io/streak-stats)
