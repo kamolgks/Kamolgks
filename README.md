@@ -1,5 +1,4 @@
 ### Profile views
-
 <div align="center">
   <img src="https://count.getloli.com/get/@kamolgks" alt="profile_views">
 </div>
@@ -16,5 +15,5 @@
 
 ### Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-Kamolgks-blue?logo=telegram)](https://t.me/kamolgks)
-[![Feedback Bot](https://img.shields.io/badge/Telegram-feedback_bot-blue?logo=telegram)](https://t.me/fkamolgks_bot)
+<!-- [![Feedback Bot](https://img.shields.io/badge/Telegram-feedback_bot-blue?logo=telegram)](https://t.me/fkamolgks_bot) -->
 [![Instagram](https://img.shields.io/badge/Instagram-Kamolgks-pink?logo=instagram)](https://instagram.com/kamolgks)
