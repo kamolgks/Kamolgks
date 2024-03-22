@@ -1,7 +1,11 @@
+<!---
 ### Profile views
 <div align="center">
   <img src="https://count.getloli.com/get/@kamolgks" alt="profile_views">
 </div>
+-->
+
+![](https://komarev.com/ghpvc/?username=kamolgks&base=2767) <!--- 2767 взяты из https://count.getloli.com/get/@kamolgks --> 
 
 ### My GitHub Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamolgks&theme=dracula&mode=weekly)](https://git.io/streak-stats)
