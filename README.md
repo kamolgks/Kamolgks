@@ -17,7 +17,9 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamolgks&show_icons=true&theme=dracula&langs_count=5)
 
 ### Wakatime
-[![Code time](https://github-readme-stats.vercel.app/api/wakatime?username=kamolgks&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Code time](https://github-readme-stats.vercel.app/api/wakatime?username=kamolgks&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Kamoliddin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kamolgks&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-Kamolgks-blue?logo=telegram)](https://t.me/kamolgks)
