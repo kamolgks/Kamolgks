@@ -23,5 +23,5 @@
 
 ### Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-Kamolgks-blue?logo=telegram)](https://t.me/kamolgks)
-[![Instagram](https://img.shields.io/badge/Instagram-Kamolgks-pink?logo=instagram)](https://instagram.com/kamolgks)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-Kamolgks-pink?logo=instagram)](https://instagram.com/kamolgks) -->
 <!-- [![Feedback Bot](https://img.shields.io/badge/Telegram-feedback_bot-blue?logo=telegram)](https://t.me/fkamolgks_bot) -->
