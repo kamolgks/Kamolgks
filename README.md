@@ -1,8 +1,23 @@
+
+<h1 align="center">👨‍💻 Kamoliddin Tukhtaboev</h1>
+<h3 align="center">Python / Fullstack Developer | Freelancer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=52D7FC&width=435&lines=Python+%7C+Flask+%7C+FastAPI+%7C+Django;Databases+%7C+SQLite+%7C+SQLAlchemy+%7C+Redis;Frontend+%7C+HTML+%7C+CSS+%7C+JavaScript;Freelancer+%7C+Open+to+Opportunities!" alt="typing_SVG" />
+</p>
+
 ### GitHub & Wakatime Insights
 ![](https://komarev.com/ghpvc/?username=kamolgks&base=2767)
 [![wakatime](https://wakatime.com/badge/user/cd78fb4f-27ff-40b1-8a3c-eddd5695a9d1.svg)](https://wakatime.com/@cd78fb4f-27ff-40b1-8a3c-eddd5695a9d1)
 
-### My GitHub Statistics
+### 🛠️ Tech Stack
+- **Backend:** Python (Flask, FastAPI, Django)
+- **Database:** SQLite, SQLAlchemy, Redis
+- **Frontend:** HTML, CSS, JavaScript
+
+---
+
+### GitHub Statistics
 <div>
   <picture>
     <source 
@@ -31,7 +46,6 @@
   </picture>
 </div>
 
-### Most Used Languages
 <div>
   <picture>
     <source
@@ -50,16 +64,20 @@
 <div>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kamolgks&theme=github_dark_dimmed&langs_count=10" 
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kamolgks&theme=github_dark_dimmed&langs_count=14" 
       media="(prefers-color-scheme: dark)"
     /> 
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kamolgks&langs_count=10" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kamolgks&langs_count=14" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     /> 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kamolgks&langs_count=10" /> 
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kamolgks&langs_count=14" /> 
   </picture>
 </div>
 
-### Contact Me
-[![Telegram](https://img.shields.io/badge/Telegram-Kamolgks-blue?logo=telegram)](https://t.me/kamolgks)
+---
+
+### 🌐 Connect with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kamolgks)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kamolgks)
